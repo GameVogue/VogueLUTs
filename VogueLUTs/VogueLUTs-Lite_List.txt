@@ -1,0 +1,25 @@
+Pack chunk: VogueLUTs-Lite
+Chunk: 1 of 1
+Atlas: VogueLUTs-Lite.png
+Shader: VogueLUTs-Lite.fx
+LUT grid: 32 x 32 x 32
+LUT count: 15
+Baked Pre-LUT: None
+
+Selector | LUT name | Source file | Source format | Source size | 3DL order
+---------|----------|-------------|---------------|-------------|----------
+0 | Vogue-35Extended | Vogue-35Extended.cube | cube | 33³ | standard
+1 | Vogue-35Full | Vogue-35Full.cube | cube | 33³ | standard
+2 | Vogue-35Standard | Vogue-35Standard.cube | cube | 33³ | standard
+3 | Vogue-BW_Arista | Vogue-BW_Arista.cube | cube | 33³ | standard
+4 | Vogue-Cine1 | Vogue-Cine1.cube | cube | 33³ | standard
+5 | Vogue-Cine2 | Vogue-Cine2.cube | cube | 33³ | standard
+6 | Vogue-MinorityReport | Vogue-MinorityReport.cube | cube | 33³ | standard
+7 | Vogue-OaT | Vogue-OaT.cube | cube | 33³ | standard
+8 | Vogue-Portrait1 | Vogue-Portrait1.cube | cube | 33³ | standard
+9 | Vogue-Portrait2 | Vogue-Portrait2.cube | cube | 33³ | standard
+10 | Vogue-Rich | Vogue-Rich.cube | cube | 33³ | standard
+11 | Vogue-Rich250D | Vogue-Rich250D.cube | cube | 33³ | standard
+12 | Vogue-Rich500T | Vogue-Rich500T.cube | cube | 33³ | standard
+13 | Vogue-Seven | Vogue-Seven.cube | cube | 33³ | standard
+14 | Vogue-TheMatrix | Vogue-TheMatrix.cube | cube | 33³ | standard
